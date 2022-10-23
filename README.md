@@ -6,6 +6,11 @@
 
 https://discord.gg/nqw8XypYaY
 
+### Эксплорер 
+
+https://ollo.explorers.guru/validators
+
+
 
 ## Рекомендуемые требования для сервера
 
